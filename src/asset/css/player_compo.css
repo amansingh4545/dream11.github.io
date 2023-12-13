@@ -1,0 +1,33 @@
+.match-teams{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.players-acc-team{
+    flex: 1;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+.pct-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 1px 1px 10px lightgray;
+    border-radius: 10px;
+}
+.pct-head img{
+    width: auto;
+    height: 50px;
+    margin: 5px 10px;
+    border-radius: 2px;
+}
+.pct-head span{
+    font-weight: bold;
+    font-size: 1.3rem;
+
+}

@@ -1,0 +1,519 @@
+{     
+      "India" :{
+      "players": [
+        {
+          "name": "Virat Kohli",
+          "jerseyNumber": 18,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/8/3788.1666934063.jpg"
+        },
+        {
+          "name": "Rohit Sharma",
+          "jerseyNumber": 45,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/3516.1666934133.jpg"
+        },
+        {
+          "name": "Jasprit Bumrah",
+          "jerseyNumber": 33,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/4/6684.1671618336.jpg"
+        },
+        {
+          "name": "Ravindra Jadeja",
+          "jerseyNumber": 8,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/3856.1671619661.jpg"
+        },
+        {
+          "name": "KL Rahul",
+          "jerseyNumber": 27,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/8229.1666934084.jpg"
+        },
+        {
+          "name": "Rishabh Pant",
+          "jerseyNumber": 7,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/8229.1666934084.jpg"
+        },
+        {
+          "name": "Hardik Pandya",
+          "jerseyNumber": 33,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/0/7780.1666933992.jpg"
+        },
+        {
+          "name": "Yuzvendra Chahal",
+          "jerseyNumber": 3,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5085.1666934204.jpg"
+        },
+        {
+          "name": "Shikhar Dhawan",
+          "jerseyNumber": 25,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5085.1666934204.jpg"
+        }
+        ,
+        {
+          "name": "Mohammed Shami",
+          "jerseyNumber": 11,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/1/5051.1666934188.jpg"
+        }
+      ]
+    },
+
+    "Australia":{
+      "players": [
+        {
+          "name": "Joe Root",
+          "jerseyNumber": 66,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/1/4541.1680524377.jpg"
+        },
+        {
+          "name": "Eoin Morgan",
+          "jerseyNumber": 7,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/8/3428.1505977517.jpg"
+        },
+        {
+          "name": "Jofra Archer",
+          "jerseyNumber": 22,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/9855.1680523498.jpg"
+        },
+        {
+          "name": "Ben Stokes",
+          "jerseyNumber": 55,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/4489.1681819392.jpg"
+        },
+        {
+          "name": "Jos Buttler",
+          "jerseyNumber": 5,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/4456.1666951408.jpg"
+        },
+        {
+          "name": "Jason Roy",
+          "jerseyNumber": 15,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/7/4137.1681819327.jpg"
+        },
+        {
+          "name": "Chris Woakes",
+          "jerseyNumber": 8,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/4/4074.1666951272.jpg"
+        },
+        {
+          "name": "Mark Wood", 
+          "jerseyNumber": 24,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Jonny Bairstow",
+          "jerseyNumber": 26,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Adil Rashid",
+          "jerseyNumber": 10,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/3899.1666951137.jpg"
+        }
+      ]
+    },
+    "England":{
+      "players": [
+        {
+          "name": "Joe Root",
+          "jerseyNumber": 66,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/1/4541.1680524377.jpg"
+        },
+        {
+          "name": "Eoin Morgan",
+          "jerseyNumber": 7,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/8/3428.1505977517.jpg"
+        },
+        {
+          "name": "Jofra Archer",
+          "jerseyNumber": 22,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/9855.1680523498.jpg"
+        },
+        {
+          "name": "Ben Stokes",
+          "jerseyNumber": 55,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/4489.1681819392.jpg"
+        },
+        {
+          "name": "Jos Buttler",
+          "jerseyNumber": 5,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/4456.1666951408.jpg"
+        },
+        {
+          "name": "Jason Roy",
+          "jerseyNumber": 15,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/7/4137.1681819327.jpg"
+        },
+        {
+          "name": "Chris Woakes",
+          "jerseyNumber": 8,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/4/4074.1666951272.jpg"
+        },
+        {
+          "name": "Mark Wood", 
+          "jerseyNumber": 24,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Jonny Bairstow",
+          "jerseyNumber": 26,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Adil Rashid",
+          "jerseyNumber": 10,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/3899.1666951137.jpg"
+        }
+      ]
+    },
+    "New Zealand":{
+      "players": [
+        {
+          "name": "Joe Root",
+          "jerseyNumber": 66,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/1/4541.1680524377.jpg"
+        },
+        {
+          "name": "Eoin Morgan",
+          "jerseyNumber": 7,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/8/3428.1505977517.jpg"
+        },
+        {
+          "name": "Jofra Archer",
+          "jerseyNumber": 22,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/9855.1680523498.jpg"
+        },
+        {
+          "name": "Ben Stokes",
+          "jerseyNumber": 55,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/4489.1681819392.jpg"
+        },
+        {
+          "name": "Jos Buttler",
+          "jerseyNumber": 5,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/4456.1666951408.jpg"
+        },
+        {
+          "name": "Jason Roy",
+          "jerseyNumber": 15,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/7/4137.1681819327.jpg"
+        },
+        {
+          "name": "Chris Woakes",
+          "jerseyNumber": 8,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/4/4074.1666951272.jpg"
+        },
+        {
+          "name": "Mark Wood", 
+          "jerseyNumber": 24,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Jonny Bairstow",
+          "jerseyNumber": 26,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Adil Rashid",
+          "jerseyNumber": 10,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/3899.1666951137.jpg"
+        }
+      ]
+    },
+    "South Africa" :{
+      "players": [
+        {
+          "name": "Virat Kohli",
+          "jerseyNumber": 18,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/8/3788.1666934063.jpg"
+        },
+        {
+          "name": "Rohit Sharma",
+          "jerseyNumber": 45,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/3516.1666934133.jpg"
+        },
+        {
+          "name": "Jasprit Bumrah",
+          "jerseyNumber": 33,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/4/6684.1671618336.jpg"
+        },
+        {
+          "name": "Ravindra Jadeja",
+          "jerseyNumber": 8,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/3856.1671619661.jpg"
+        },
+        {
+          "name": "KL Rahul",
+          "jerseyNumber": 27,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/8229.1666934084.jpg"
+        },
+        {
+          "name": "Rishabh Pant",
+          "jerseyNumber": 7,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/8229.1666934084.jpg"
+        },
+        {
+          "name": "Hardik Pandya",
+          "jerseyNumber": 33,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/0/7780.1666933992.jpg"
+        },
+        {
+          "name": "Yuzvendra Chahal",
+          "jerseyNumber": 3,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5085.1666934204.jpg"
+        },
+        {
+          "name": "Shikhar Dhawan",
+          "jerseyNumber": 25,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5085.1666934204.jpg"
+        }
+        ,
+        {
+          "name": "Mohammed Shami",
+          "jerseyNumber": 11,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/1/5051.1666934188.jpg"
+        }
+      ]
+    },
+
+    "Pakistan":{
+      "players": [
+        {
+          "name": "Joe Root",
+          "jerseyNumber": 66,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/1/4541.1680524377.jpg"
+        },
+        {
+          "name": "Eoin Morgan",
+          "jerseyNumber": 7,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/8/3428.1505977517.jpg"
+        },
+        {
+          "name": "Jofra Archer",
+          "jerseyNumber": 22,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/9855.1680523498.jpg"
+        },
+        {
+          "name": "Ben Stokes",
+          "jerseyNumber": 55,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/4489.1681819392.jpg"
+        },
+        {
+          "name": "Jos Buttler",
+          "jerseyNumber": 5,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/4456.1666951408.jpg"
+        },
+        {
+          "name": "Jason Roy",
+          "jerseyNumber": 15,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/7/4137.1681819327.jpg"
+        },
+        {
+          "name": "Chris Woakes",
+          "jerseyNumber": 8,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/4/4074.1666951272.jpg"
+        },
+        {
+          "name": "Mark Wood", 
+          "jerseyNumber": 24,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Jonny Bairstow",
+          "jerseyNumber": 26,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Adil Rashid",
+          "jerseyNumber": 10,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/3899.1666951137.jpg"
+        }
+      ]
+    },
+    "Sri Lanka":{
+      "players": [
+        {
+          "name": "Joe Root",
+          "jerseyNumber": 66,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/1/4541.1680524377.jpg"
+        },
+        {
+          "name": "Eoin Morgan",
+          "jerseyNumber": 7,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/8/3428.1505977517.jpg"
+        },
+        {
+          "name": "Jofra Archer",
+          "jerseyNumber": 22,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/9855.1680523498.jpg"
+        },
+        {
+          "name": "Ben Stokes",
+          "jerseyNumber": 55,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/4489.1681819392.jpg"
+        },
+        {
+          "name": "Jos Buttler",
+          "jerseyNumber": 5,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/4456.1666951408.jpg"
+        },
+        {
+          "name": "Jason Roy",
+          "jerseyNumber": 15,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/7/4137.1681819327.jpg"
+        },
+        {
+          "name": "Chris Woakes",
+          "jerseyNumber": 8,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/4/4074.1666951272.jpg"
+        },
+        {
+          "name": "Mark Wood", 
+          "jerseyNumber": 24,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Jonny Bairstow",
+          "jerseyNumber": 26,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Adil Rashid",
+          "jerseyNumber": 10,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/3899.1666951137.jpg"
+        }
+      ]
+    },
+    "West Indies":{
+      "players": [
+        {
+          "name": "Joe Root",
+          "jerseyNumber": 66,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/1/4541.1680524377.jpg"
+        },
+        {
+          "name": "Eoin Morgan",
+          "jerseyNumber": 7,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/8/3428.1505977517.jpg"
+        },
+        {
+          "name": "Jofra Archer",
+          "jerseyNumber": 22,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/9855.1680523498.jpg"
+        },
+        {
+          "name": "Ben Stokes",
+          "jerseyNumber": 55,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/4489.1681819392.jpg"
+        },
+        {
+          "name": "Jos Buttler",
+          "jerseyNumber": 5,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/6/4456.1666951408.jpg"
+        },
+        {
+          "name": "Jason Roy",
+          "jerseyNumber": 15,
+          "role": "Batsman",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/7/4137.1681819327.jpg"
+        },
+        {
+          "name": "Chris Woakes",
+          "jerseyNumber": 8,
+          "role": "All-Rounder",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/4/4074.1666951272.jpg"
+        },
+        {
+          "name": "Mark Wood", 
+          "jerseyNumber": 24,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Jonny Bairstow",
+          "jerseyNumber": 26,
+          "role": "Wicketkeeper",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5055.1666951451.jpg"
+        },
+        {
+          "name": "Adil Rashid",
+          "jerseyNumber": 10,
+          "role": "Bowler",
+          "img":"https://www.mykhel.com/thumb/247x100x233/cricket/players/9/3899.1666951137.jpg"
+        }
+      ]
+    }
+}
+  

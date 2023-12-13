@@ -1,0 +1,21 @@
+[
+    {
+      "author": "John Doe",
+      "profilePic": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "content": "This game is amazing! The interface is user-friendly and the gameplay is incredibly immersive. I love the variety of sports and the competitive nature of the contests. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "author": "Jane Smith",
+      "profilePic": "https://i.pravatar.cc/250?u=mail@ashallendesign.co.uk",
+      "content": "I've been playing Dream 11 for a while now and it never disappoints. The app is well-designed, and the matches are thrilling. The ability to create your own team and compete with others adds an extra layer of excitement. Thumbs up!",
+      "rating": 4
+    },
+    {
+      "author": "Alex Thompson",
+      "profilePic": "https://placebeard.it/250/250",
+      "content": "Dream 11 is my go-to platform for fantasy cricket. The app is intuitive and the contests are exciting. The player selection and point system are fair, and the cash prizes are an added incentive. I can't get enough of it!",
+      "rating": 4
+    }
+  ]
+  

@@ -1,0 +1,54 @@
+.ct-head{
+    text-align: center;
+    background-color: white;
+    box-shadow: 1px 1px 10px lightgray;
+    width: fit-content;
+    font-size: 1.7rem;
+    font-family: sans-serif;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 20px 30px;
+    margin: 10px auto;
+}
+
+.ct-head button{
+    font-size: 1.7rem;
+    font-family: sans-serif;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 20px 30px;
+    margin: 10px auto;
+    background-color: green;
+}
+
+.our-team-players{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.otp-compo{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 1px 10px lightgray, -1px -1px 10px lightgray;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px 15px ;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+}
+.otp-compo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.otp-compo h4{
+    margin: 10px auto;
+}
+.otp-compo p{
+    margin: margin
+    5px auto;
+}

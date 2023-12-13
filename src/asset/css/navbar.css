@@ -1,0 +1,86 @@
+.nav{
+    background-color: #e10000;
+    position: relative;
+    width: 100%;
+    background-attachment: fixed;
+    transition: all ease-in-out 0.5s;
+        
+    }
+    
+    .sub_nav{
+        display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    }
+    .sub_nav_mb{
+        display: flex;
+        flex-direction: column;
+        height: 35px;
+        overflow: hidden;
+        padding: 10px;
+        transition: all ease-in-out 0.5s;
+    }
+    
+    .n_lg{
+        flex: 1;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .n_lg_mb{
+        display: flex;
+        justify-content: space-between;
+    }
+    .n_ham{
+        display: none;
+    }
+    .n_ham_mb{
+        display: flex;
+        align-items: center;
+    }
+    .logo h4{
+        font-weight: bold;
+        color: white;
+        font-size: 1.2rem;
+    }
+    .new{
+        color: green;
+    }
+    .n_list{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        flex: 1;
+    
+    }
+    .n_list_mb{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: all ease-in-out 0.5s;
+    
+    
+    }
+    .opennav{
+        height: 150px;
+        transition: all ease-in-out o.5s;
+    }
+    
+    .navlist a{
+        text-decoration: none;
+        color: white;
+        font-family: 'Roboto mono', sans-serif;
+    }
+    
+    .nav_bg{
+        background-color: black;
+    }
+    
+
+    .navicon{
+        margin: 0px 5px;
+        color: white;
+    }
+    
